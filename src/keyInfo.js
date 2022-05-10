@@ -181,7 +181,7 @@ const keyInfo = [
   [
     // row 3
     {
-      key: { ru: 'CapsLk', en: 'CapsLk' },
+      key: { ru: 'CapsLock', en: 'CapsLock' },
       code: 'CapsLock',
       class: 'key CapsLock',
       noType: true,
@@ -343,7 +343,7 @@ const keyInfo = [
   [
     // row 5
     {
-      key: { ru: 'Cntrl', en: 'Cntrl' },
+      key: { ru: 'Ctrl', en: 'Ctrl' },
       code: 'ControlLeft',
       class: 'key key_leftctrl ControlLeft',
       noType: true,
@@ -362,7 +362,7 @@ const keyInfo = [
       noType: true,
     },
     {
-      key: { ru: 'Cntrl', en: 'Cntrl' },
+      key: { ru: 'Ctrl', en: 'Ctrl' },
       code: 'ControlRight',
       class: 'key key_rightctrl ControlRight',
       noType: true,
